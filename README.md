@@ -1,6 +1,9 @@
 # MLiCB-project
-Project in Machine Learning in Computational Biology
+This repository contains code and documentation for the Project in Machine Learning in Computational Biology:
 Enhancing Single-Cell RNA-seq Analysis: Transitioning scPML from R to Python with Advanced Explainability
+
+## Download scPML.zip
+The `scPML.zip` file can be downloaded from [Google Drive](https://drive.google.com/file/d/1zFWLsCgHTD02Hg2Y4v65iNKL5VmCRmpu/view?usp=drive_link).
 
 Project Structure
 
